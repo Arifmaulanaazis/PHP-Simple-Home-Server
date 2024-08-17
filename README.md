@@ -53,7 +53,7 @@ To set up this simple home server, follow the steps below for either XAMPP or Ng
    - Clone this repository into your Nginx `html` directory:
      ```bash
      cd /usr/share/nginx/html
-     git clone https://github.com/yourusername/simple-home-server.git
+     git clone https://github.com/Arifmaulanaazis/simple-home-server.git
      ```
 
 3. **Update Configuration:**
